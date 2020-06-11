@@ -7,5 +7,3 @@ Authors: Changhee Lee, Mihaela van der Schaar
 - Paper: the link will be available soon
 - Supplementary: the link will be available soon
 
-### Description of the code
-This code shows the modified implementation of AC-TPC on a sample time-series dataset. 
